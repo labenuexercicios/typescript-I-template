@@ -4,6 +4,7 @@ A função abaixo pergunta à pessoa suas três cores favoritas e imprime no con
 Refatore a função para o Typescript.
 */
 
+/* DESCOMENTE ESTA FUNÇÃO
 function imprimeTresCoresFavoritas() {
   const cor1 = process.argv[2]
   const cor2 = process.argv[3]
@@ -13,3 +14,4 @@ function imprimeTresCoresFavoritas() {
 }
 
 imprimeTresCoresFavoritas()
+*/
