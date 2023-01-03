@@ -1,4 +1,6 @@
-export const frota: {}[] = [
+import { Car } from "./types"
+
+export const frota: Car[] = [
   {
     marca: 'Chevrolet',
     modelo: 'Onix',
